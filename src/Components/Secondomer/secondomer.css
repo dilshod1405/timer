@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 5%;
+    color: white;
+    font-size: 100px;
+    filter: drop-shadow(0 0 0.75rem white);
+}
+
+@media screen and (max-width: 844px) {
+    h1{
+        font-size: 56px;
+        padding-top: 70%;
+    }
+}
